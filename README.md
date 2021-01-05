@@ -1,4 +1,4 @@
-# navigate
+# Navigate
 Navigate is my one page application developed for sharing my social links and websites. 
 
 https://matt-tang.github.io/navigate/
